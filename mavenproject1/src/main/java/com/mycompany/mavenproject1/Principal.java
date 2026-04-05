@@ -1,7 +1,7 @@
 
 package com.mycompany.mavenproject1;
 
-import MóduloClínico.Animal;
+import com.mycompany.mavenproject1.MóduloClínico.Animal;
 
 
 public class Principal {
